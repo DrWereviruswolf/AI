@@ -1,0 +1,2 @@
+tensorflow=1.14.0
+gast=0.2.2
